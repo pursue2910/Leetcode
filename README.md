@@ -73,3 +73,15 @@ So yes, my GitHub commits are basically powered by my questionable decision to o
 Wish me luck.
 
 ⭐ If you're also grinding LeetCode, we're in this together.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pursue2910/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pursue2910/Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

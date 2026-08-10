@@ -84,6 +84,7 @@ Wish me luck.
 | [0015-3sum](https://github.com/pursue2910/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pursue2910/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/pursue2910/Leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pursue2910/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,4 +166,8 @@ Wish me luck.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pursue2910/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pursue2910/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->

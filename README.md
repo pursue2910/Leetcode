@@ -85,6 +85,7 @@ Wish me luck.
 | [0016-3sum-closest](https://github.com/pursue2910/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/pursue2910/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pursue2910/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/pursue2910/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pursue2910/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@ Wish me luck.
 | [0027-remove-element](https://github.com/pursue2910/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pursue2910/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/pursue2910/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/pursue2910/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/pursue2910/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -179,6 +181,7 @@ Wish me luck.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pursue2910/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/pursue2910/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -187,4 +190,13 @@ Wish me luck.
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/pursue2910/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/pursue2910/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pursue2910/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pursue2910/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

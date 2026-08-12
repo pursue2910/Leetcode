@@ -85,6 +85,7 @@ Wish me luck.
 | [0016-3sum-closest](https://github.com/pursue2910/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/pursue2910/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pursue2910/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pursue2910/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Wish me luck.
 | [0003-longest-substring-without-repeating-characters](https://github.com/pursue2910/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pursue2910/Leetcode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/pursue2910/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pursue2910/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Wish me luck.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pursue2910/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pursue2910/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |

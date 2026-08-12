@@ -91,12 +91,14 @@ Wish me luck.
 | [0001-two-sum](https://github.com/pursue2910/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pursue2910/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pursue2910/Leetcode/tree/master/0013-roman-to-integer) |
+| [0142-linked-list-cycle-ii](https://github.com/pursue2910/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pursue2910/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pursue2910/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pursue2910/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/pursue2910/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0707-design-linked-list](https://github.com/pursue2910/Leetcode/tree/master/0707-design-linked-list) |
 ## Math
 |  |
@@ -130,6 +132,7 @@ Wish me luck.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pursue2910/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/pursue2910/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pursue2910/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0142-linked-list-cycle-ii](https://github.com/pursue2910/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -175,4 +178,8 @@ Wish me luck.
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/pursue2910/Leetcode/tree/master/0707-design-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/pursue2910/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

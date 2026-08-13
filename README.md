@@ -199,4 +199,8 @@ Wish me luck.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pursue2910/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/pursue2910/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

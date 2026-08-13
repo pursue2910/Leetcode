@@ -204,4 +204,5 @@ Wish me luck.
 | ------- |
 | [0175-combine-two-tables](https://github.com/pursue2910/Leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/pursue2910/Leetcode/tree/master/0182-duplicate-emails) |
+| [0196-delete-duplicate-emails](https://github.com/pursue2910/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->

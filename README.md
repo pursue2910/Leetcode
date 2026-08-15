@@ -86,6 +86,7 @@ Wish me luck.
 | [0027-remove-element](https://github.com/pursue2910/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pursue2910/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/pursue2910/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pursue2910/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pursue2910/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -169,6 +170,7 @@ Wish me luck.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pursue2910/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pursue2910/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |

@@ -103,6 +103,7 @@ Wish me luck.
 | [0002-add-two-numbers](https://github.com/pursue2910/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pursue2910/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pursue2910/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/pursue2910/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/pursue2910/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0707-design-linked-list](https://github.com/pursue2910/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pursue2910/Leetcode/tree/master/0876-middle-of-the-linked-list) |

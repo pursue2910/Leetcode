@@ -86,6 +86,7 @@ Wish me luck.
 | [0027-remove-element](https://github.com/pursue2910/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pursue2910/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/pursue2910/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/pursue2910/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pursue2910/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pursue2910/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pursue2910/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -98,6 +99,7 @@ Wish me luck.
 | [0003-longest-substring-without-repeating-characters](https://github.com/pursue2910/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pursue2910/Leetcode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/pursue2910/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0525-contiguous-array](https://github.com/pursue2910/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pursue2910/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pursue2910/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pursue2910/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -218,6 +220,7 @@ Wish me luck.
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/pursue2910/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pursue2910/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pursue2910/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->

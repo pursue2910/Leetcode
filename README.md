@@ -135,6 +135,7 @@ Wish me luck.
 | [0013-roman-to-integer](https://github.com/pursue2910/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pursue2910/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/pursue2910/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pursue2910/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Wish me luck.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pursue2910/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pursue2910/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
